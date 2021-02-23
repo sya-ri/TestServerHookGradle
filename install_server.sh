@@ -1,0 +1,1 @@
+wget https://papermc.io/api/v1/paper/1.16.5/latest/download -O server.jar
