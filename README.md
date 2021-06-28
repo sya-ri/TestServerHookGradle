@@ -1,5 +1,7 @@
 # TestServerHookGradle
 
+**Recommended to use [sya-ri/minecraft-server-gradle-plugin](https://github.com/sya-ri/minecraft-server-gradle-plugin).**
+
 ## Installation
 
 1. Open Terminal
