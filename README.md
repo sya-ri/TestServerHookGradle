@@ -12,7 +12,7 @@ unzip master.zip
 rm master.zip
 mv TestServerHookGradle-master _test_server
 cd _test_server
-sh install_server.sh
+sh install_server.sh 1.17.1
 ```
 
 ## Setting IntelliJ Task
